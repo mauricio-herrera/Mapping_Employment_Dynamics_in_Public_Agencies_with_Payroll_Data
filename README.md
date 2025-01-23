@@ -1,4 +1,5 @@
-These codes are part of the article submitted to the journal PlosOne.
+These codes are part of the article submitted to the journal PlosOne.  
+PLoS ONE 19(12): e0316386. https://doi.org/10.1371/journal.pone.0316386
 
 Title: Mapping employment dynamics in public agencies with payroll data: a methodological framework with application in Chile.
 Authors: Mauricio Herrera-Marín, Daniel Brieba
